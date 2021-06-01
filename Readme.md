@@ -1,5 +1,5 @@
 # Jenkins master ready to run Docker image (Jenkins Swarm Plugin)
-
+## Fabio Gil
 Docker images for master based on Jenkins Swarm Plugin.
 
 This images is generic, thus you can obviously re-use it within
